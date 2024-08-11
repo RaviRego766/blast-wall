@@ -1,0 +1,17 @@
+{
+    "type": "Wall",
+    "health": 6000,
+    "size": 2,
+    "requirements": [
+        {
+            "item": "titanium",
+            "amount": 32
+        },
+        {
+            "item": "blast-compound",
+            "amount": 12
+        }
+    ],
+    "category": "defense",
+    "research": "reinforced-titanium-wall"
+}
